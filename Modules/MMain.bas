@@ -1,11 +1,11 @@
-Attribute VB_Name = "ModMain"
+Attribute VB_Name = "MMain"
 Option Explicit '9 Zeilen
 Private Declare Sub InitCommonControls Lib "comctl32.dll" ()
 
 Sub Main()
-  Call InitCommonControls
-  FrmSudoku.Show
-  FrmSudoku.SetupGame
+    Call InitCommonControls
+    FrmSudoku.Show
+    FrmSudoku.SetupGame
 End Sub
 
 'in der Klasse SudokuGame

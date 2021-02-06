@@ -1,83 +1,83 @@
+#include "SuMBOku.h"
+
 /////////////////////////////////////////////////////////////////////////////
 //
 // Icon
 //
-1                       ICON                    "sudoku8.ico"
-
-#define RT_MANIFEST 24
+1                       ICON                    "Icons\\SuMBOku8.ico"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // 24
 //
-1                       RT_MANIFEST             "sudoku.exe.manifest"
+1                       RT_MANIFEST             "Manifest\\SuMBOku.exe.manifest"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Cursor
 //
-1                       CURSOR                  "PntHand.cur"
+1                       CURSOR                  "Cursors\\PntHand.cur"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap 1 Game Level                                       'gif geht nicht
 //
-11                      BITMAP                  "SunDark.bmp"
+11                      BITMAP                  "Bitmaps\\SunDark.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap 1 Game Level                                       'gif geht nicht
 //
-12                      BITMAP                  "SunBright.bmp"
+12                      BITMAP                  "Bitmaps\\SunBright.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap animation 00
 //
-101                     BITMAP                  "Sudoku_00.bmp"
+101                     BITMAP                  "Bitmaps\\SuMBOku_00.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap animation 09
 //
-102                     BITMAP                  "Sudoku_09.bmp"
+102                     BITMAP                  "Bitmaps\\SuMBOku_09.bmp"
 
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap animation 18
 //
-103                     BITMAP                  "Sudoku_18.bmp"
+103                     BITMAP                  "Bitmaps\\SuMBOku_18.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap animation 27
 //
-104                     BITMAP                  "Sudoku_27.bmp"
+104                     BITMAP                  "Bitmaps\\SuMBOku_27.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap animation 36
 //
-105                     BITMAP                  "Sudoku_36.bmp"
+105                     BITMAP                  "Bitmaps\\SuMBOku_36.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap Gripper Block
 //
-201                     BITMAP                  "GrpBlck.bmp"
+201                     BITMAP                  "Bitmaps\\GrpBlck.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap Gripper Line
 //
-202                     BITMAP                  "GrpLine.bmp"
+202                     BITMAP                  "Bitmaps\\GrpLine.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap Gripper Column
 //
-203                     BITMAP                  "GrpColm.bmp"
+203                     BITMAP                  "Bitmaps\\GrpColm.bmp"
 
 STRINGTABLE
 BEGIN

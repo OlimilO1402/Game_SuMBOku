@@ -3,10 +3,10 @@
   <assemblyIdentity
     version="1.0.0.0"
     processorArchitecture="X86"
-    name="Sudoku"
+    name="SuMBOku"
     type="win32"
   />
-  <description>sudoku.exe</description>
+  <description>SuMBOku.exe</description>
   <dependency>
     <dependentAssembly>
       <assemblyIdentity

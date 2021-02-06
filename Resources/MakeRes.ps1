@@ -1,0 +1,1 @@
+.\rc.exe "SuMBOku.rc" >>log.txt 

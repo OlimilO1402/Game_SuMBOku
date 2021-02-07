@@ -437,13 +437,15 @@ Dim n4 As Long, GAOUZV As Long
   GAOUZV = GetAmountOfUnZeroVals
   If GAOUZV = n4 Then
     If Not CheckMe Then
-      mess = mess & "Das Sudoku-Rätsel konnte leider nicht richtig gelöst werden." & vbCrLf
+      'mess = mess & "Das Sudoku-Rätsel konnte leider nicht richtig gelöst werden." & vbCrLf
+      mess = mess & "Unfortunately the sudoku riddle could not be solved correctly." & vbCrLf
       'außerdem soll ausgegeben werden wo es gehakt hat:
       mess = mess & msCheckErr
       MsgBox mess
     Else
       'MsgBox "habe fertig"
-      MsgBox "Herzlichen Glückwunsch, sie haben das Sudoku richtig gelöst!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
+      'MsgBox "Herzlichen Glückwunsch, sie haben das Sudoku richtig gelöst!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
+      MsgBox "Congratulations, your have finally solved the sudoku correctly!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
     End If
 '  Else
 '    If Not CheckMe Then MsgBox msCheckErr
@@ -459,7 +461,8 @@ Dim C As SudokuBLC
   For i = 1 To mBlockCol.Count
     Set B = mBlockCol(i)
     If Not B.CheckMe Then
-      msCheckErr = msCheckErr & "Block " & CStr(i) & " meldet:"
+      'msCheckErr = msCheckErr & "Block " & CStr(i) & " meldet:"
+      msCheckErr = msCheckErr & "Block " & CStr(i) & " report:"
       msCheckErr = msCheckErr & B.CheckErr & vbCrLf
       CheckMe = False
     End If
@@ -467,7 +470,8 @@ Dim C As SudokuBLC
   For i = 1 To mLineCol.Count
     Set L = mLineCol(i)
     If Not L.CheckMe Then
-      msCheckErr = msCheckErr & "Line " & CStr(i) & " meldet:"
+      'msCheckErr = msCheckErr & "Line " & CStr(i) & " meldet:"
+      msCheckErr = msCheckErr & "Line " & CStr(i) & " report:"
       msCheckErr = msCheckErr & L.CheckErr & vbCrLf
       CheckMe = False
     End If
@@ -475,7 +479,8 @@ Dim C As SudokuBLC
   For i = 1 To mColmCol.Count
     Set C = mColmCol(i)
     If Not C.CheckMe Then
-      msCheckErr = msCheckErr & "Column " & CStr(i) & " meldet:"
+      'msCheckErr = msCheckErr & "Column " & CStr(i) & " meldet:"
+      msCheckErr = msCheckErr & "Column " & CStr(i) & " report:"
       msCheckErr = msCheckErr & C.CheckErr & vbCrLf
       CheckMe = False
     End If

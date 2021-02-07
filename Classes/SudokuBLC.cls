@@ -47,7 +47,7 @@ Public Property Let BLCTyp(LngVal As SuBLCTyp)
   mBLCTyp = LngVal
   Select Case mBLCTyp
   Case stBlock: mStrTyp = "Block"
-  Case stLine: mStrTyp = "Line"
+  Case stLine: mStrTyp = "Row"
   Case stColum: mStrTyp = "Column"
   End Select
 End Property
@@ -124,9 +124,11 @@ Dim i As Long, V As SudokuVal, n2 As Long, NUZV As Long, n As Long
       Set C1To9 = CAlle(i)
       If C1To9.Count <> 1 Then
         If C1To9.Count = 0 Then
-          CheckErr = CheckErr & "  Wert: " & CStr(i) & " kommt garnicht vor; "
+          'CheckErr = CheckErr & "  Wert: " & CStr(i) & " kommt garnicht vor; "
+          CheckErr = CheckErr & "  value: " & CStr(i) & " does not occur; "
         Else
-          CheckErr = CheckErr & "  Wert: " & CStr(i) & " kommt: " & CStr(C1To9.Count) & "-mal vor; "
+          'CheckErr = CheckErr & "  Wert: " & CStr(i) & " kommt: " & CStr(C1To9.Count) & "-mal vor; "
+          CheckErr = CheckErr & "  value: " & CStr(i) & " exists " & CStr(C1To9.Count) & "-times; "
         End If
       End If
     Next

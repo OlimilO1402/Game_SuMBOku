@@ -50,6 +50,7 @@ Begin VB.Form frmSudokuOptions
             Height          =   255
             Left            =   0
             TabIndex        =   7
+            ToolTipText     =   "not yet implemented"
             Top             =   720
             Width           =   2535
          End

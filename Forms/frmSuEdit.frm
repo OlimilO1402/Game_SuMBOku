@@ -27,6 +27,7 @@ Begin VB.Form frmSuEdit
       Left            =   0
       TabIndex        =   0
       Text            =   "1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G"
+      ToolTipText     =   "1,2,3 ... (comma separated)"
       Top             =   0
       Width           =   3015
    End

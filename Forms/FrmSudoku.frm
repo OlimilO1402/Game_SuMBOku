@@ -1789,6 +1789,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   4680
+      MouseIcon       =   "FrmSudoku.frx":08CA
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   4440
       Width           =   135
@@ -1797,7 +1798,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   3120
-      MouseIcon       =   "FrmSudoku.frx":08CA
+      MouseIcon       =   "FrmSudoku.frx":0BD4
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   4440
       Width           =   135
@@ -1806,7 +1807,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   1560
-      MouseIcon       =   "FrmSudoku.frx":1194
+      MouseIcon       =   "FrmSudoku.frx":0EDE
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   4440
       Width           =   135
@@ -1815,7 +1816,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   4680
-      MouseIcon       =   "FrmSudoku.frx":1A5E
+      MouseIcon       =   "FrmSudoku.frx":11E8
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   2880
       Width           =   135
@@ -1824,7 +1825,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   3120
-      MouseIcon       =   "FrmSudoku.frx":2328
+      MouseIcon       =   "FrmSudoku.frx":14F2
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   2880
       Width           =   135
@@ -1833,7 +1834,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   1560
-      MouseIcon       =   "FrmSudoku.frx":2BF2
+      MouseIcon       =   "FrmSudoku.frx":17FC
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   2880
       Width           =   135
@@ -1842,7 +1843,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   4200
-      MouseIcon       =   "FrmSudoku.frx":34BC
+      MouseIcon       =   "FrmSudoku.frx":1B06
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1851,7 +1852,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   3720
-      MouseIcon       =   "FrmSudoku.frx":3D86
+      MouseIcon       =   "FrmSudoku.frx":23D0
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1860,7 +1861,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   3240
-      MouseIcon       =   "FrmSudoku.frx":4650
+      MouseIcon       =   "FrmSudoku.frx":2C9A
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1869,7 +1870,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   2640
-      MouseIcon       =   "FrmSudoku.frx":4F1A
+      MouseIcon       =   "FrmSudoku.frx":3564
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1878,7 +1879,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   2160
-      MouseIcon       =   "FrmSudoku.frx":57E4
+      MouseIcon       =   "FrmSudoku.frx":3E2E
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1887,7 +1888,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   1680
-      MouseIcon       =   "FrmSudoku.frx":60AE
+      MouseIcon       =   "FrmSudoku.frx":46F8
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1896,7 +1897,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":6978
+      MouseIcon       =   "FrmSudoku.frx":4FC2
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   4920
       Width           =   135
@@ -1905,7 +1906,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":7242
+      MouseIcon       =   "FrmSudoku.frx":52CC
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   4440
       Width           =   135
@@ -1914,7 +1915,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":7B0C
+      MouseIcon       =   "FrmSudoku.frx":55D6
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   3960
       Width           =   135
@@ -1923,7 +1924,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":83D6
+      MouseIcon       =   "FrmSudoku.frx":58E0
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   3360
       Width           =   135
@@ -1932,7 +1933,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":8CA0
+      MouseIcon       =   "FrmSudoku.frx":5BEA
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   2400
       Width           =   135
@@ -1941,7 +1942,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":956A
+      MouseIcon       =   "FrmSudoku.frx":5EF4
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   2880
       Width           =   135
@@ -1950,7 +1951,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   4680
-      MouseIcon       =   "FrmSudoku.frx":9E34
+      MouseIcon       =   "FrmSudoku.frx":61FE
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   1320
       Width           =   135
@@ -1959,7 +1960,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   3120
-      MouseIcon       =   "FrmSudoku.frx":A6FE
+      MouseIcon       =   "FrmSudoku.frx":6508
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   1320
       Width           =   135
@@ -1968,7 +1969,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   1560
-      MouseIcon       =   "FrmSudoku.frx":AFC8
+      MouseIcon       =   "FrmSudoku.frx":6812
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   1320
       Width           =   135
@@ -1977,7 +1978,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   1080
-      MouseIcon       =   "FrmSudoku.frx":B892
+      MouseIcon       =   "FrmSudoku.frx":6B1C
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1986,7 +1987,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   600
-      MouseIcon       =   "FrmSudoku.frx":C15C
+      MouseIcon       =   "FrmSudoku.frx":73E6
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -1995,7 +1996,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   135
       Left            =   120
-      MouseIcon       =   "FrmSudoku.frx":CA26
+      MouseIcon       =   "FrmSudoku.frx":7CB0
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   720
       Width           =   495
@@ -2004,7 +2005,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":D2F0
+      MouseIcon       =   "FrmSudoku.frx":857A
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   1800
       Width           =   135
@@ -2013,7 +2014,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":DBBA
+      MouseIcon       =   "FrmSudoku.frx":8884
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   1320
       Width           =   135
@@ -2022,7 +2023,7 @@ Begin VB.Form FrmSudoku
       Appearance      =   0  '2D
       Height          =   495
       Left            =   0
-      MouseIcon       =   "FrmSudoku.frx":E484
+      MouseIcon       =   "FrmSudoku.frx":8B8E
       MousePointer    =   99  'Benutzerdefiniert
       Top             =   840
       Width           =   135
@@ -2205,35 +2206,35 @@ Private Sub BtnOptions_Click()
   Set frmSudokuOptions.Sudoku = mSudoku
   frmSudokuOptions.Show 1, Me
 End Sub
-Private Sub ImB1_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 1, ImB1.Left, ImB1.Top): End Sub
-Private Sub ImB2_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 2, ImB2.Left, ImB2.Top): End Sub
-Private Sub ImB3_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 3, ImB3.Left, ImB3.Top): End Sub
-Private Sub ImB4_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 4, ImB4.Left, ImB4.Top): End Sub
-Private Sub ImB5_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 5, ImB5.Left, ImB5.Top): End Sub
-Private Sub ImB6_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 6, ImB6.Left, ImB6.Top): End Sub
-Private Sub ImB7_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 7, ImB7.Left, ImB7.Top): End Sub
-Private Sub ImB8_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 8, ImB8.Left, ImB8.Top): End Sub
-Private Sub ImB9_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 9, ImB9.Left, ImB9.Top): End Sub
+Private Sub ImB1_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 1, ImB1.Left, ImB1.Top): End Sub
+Private Sub ImB2_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 2, ImB2.Left, ImB2.Top): End Sub
+Private Sub ImB3_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 3, ImB3.Left, ImB3.Top): End Sub
+Private Sub ImB4_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 4, ImB4.Left, ImB4.Top): End Sub
+Private Sub ImB5_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 5, ImB5.Left, ImB5.Top): End Sub
+Private Sub ImB6_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 6, ImB6.Left, ImB6.Top): End Sub
+Private Sub ImB7_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 7, ImB7.Left, ImB7.Top): End Sub
+Private Sub ImB8_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 8, ImB8.Left, ImB8.Top): End Sub
+Private Sub ImB9_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("B", 9, ImB9.Left, ImB9.Top): End Sub
 
-Private Sub ImL1_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 1, ImL1.Left, ImL1.Top): End Sub
-Private Sub ImL2_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 2, ImL2.Left, ImL2.Top): End Sub
-Private Sub ImL3_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 3, ImL3.Left, ImL3.Top): End Sub
-Private Sub ImL4_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 4, ImL4.Left, ImL4.Top): End Sub
-Private Sub ImL5_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 5, ImL5.Left, ImL5.Top): End Sub
-Private Sub ImL6_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 6, ImL6.Left, ImL6.Top): End Sub
-Private Sub ImL7_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 7, ImL7.Left, ImL7.Top): End Sub
-Private Sub ImL8_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 8, ImL8.Left, ImL8.Top): End Sub
-Private Sub ImL9_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 9, ImL9.Left, ImL9.Top): End Sub
+Private Sub ImL1_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 1, ImL1.Left, ImL1.Top): End Sub
+Private Sub ImL2_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 2, ImL2.Left, ImL2.Top): End Sub
+Private Sub ImL3_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 3, ImL3.Left, ImL3.Top): End Sub
+Private Sub ImL4_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 4, ImL4.Left, ImL4.Top): End Sub
+Private Sub ImL5_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 5, ImL5.Left, ImL5.Top): End Sub
+Private Sub ImL6_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 6, ImL6.Left, ImL6.Top): End Sub
+Private Sub ImL7_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 7, ImL7.Left, ImL7.Top): End Sub
+Private Sub ImL8_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 8, ImL8.Left, ImL8.Top): End Sub
+Private Sub ImL9_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("L", 9, ImL9.Left, ImL9.Top): End Sub
 
-Private Sub ImC1_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 1, ImC1.Left, ImC1.Top): End Sub
-Private Sub ImC2_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 2, ImC2.Left, ImC2.Top): End Sub
-Private Sub ImC3_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 3, ImC3.Left, ImC3.Top): End Sub
-Private Sub ImC4_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 4, ImC4.Left, ImC4.Top): End Sub
-Private Sub ImC5_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 5, ImC5.Left, ImC5.Top): End Sub
-Private Sub ImC6_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 6, ImC6.Left, ImC6.Top): End Sub
-Private Sub ImC7_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 7, ImC7.Left, ImC7.Top): End Sub
-Private Sub ImC8_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 8, ImC8.Left, ImC8.Top): End Sub
-Private Sub ImC9_DblClick(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 9, ImC9.Left, ImC9.Top): End Sub
+Private Sub ImC1_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 1, ImC1.Left, ImC1.Top): End Sub
+Private Sub ImC2_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 2, ImC2.Left, ImC2.Top): End Sub
+Private Sub ImC3_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 3, ImC3.Left, ImC3.Top): End Sub
+Private Sub ImC4_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 4, ImC4.Left, ImC4.Top): End Sub
+Private Sub ImC5_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 5, ImC5.Left, ImC5.Top): End Sub
+Private Sub ImC6_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 6, ImC6.Left, ImC6.Top): End Sub
+Private Sub ImC7_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 7, ImC7.Left, ImC7.Top): End Sub
+Private Sub ImC8_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 8, ImC8.Left, ImC8.Top): End Sub
+Private Sub ImC9_Click(): Call BLCVDblClickHandlerShowFrmSuEdit("C", 9, ImC9.Left, ImC9.Top): End Sub
 
 Private Sub TxtSudoku_DblClick(Index As Integer)
   Call BLCVDblClickHandlerShowFrmSuEdit("V", CLng(Index))

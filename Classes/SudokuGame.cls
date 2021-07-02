@@ -445,7 +445,7 @@ Dim n4 As Long, GAOUZV As Long
     Else
       'MsgBox "habe fertig"
       'MsgBox "Herzlichen Glückwunsch, sie haben das Sudoku richtig gelöst!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
-      MsgBox "Congratulations, your have finally solved the sudoku correctly!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
+      MsgBox "Congratulations, you have finally solved the sudoku correctly!", vbMsgBoxRight, "Sudoku Sudoku Sudoku"
     End If
 '  Else
 '    If Not CheckMe Then MsgBox msCheckErr

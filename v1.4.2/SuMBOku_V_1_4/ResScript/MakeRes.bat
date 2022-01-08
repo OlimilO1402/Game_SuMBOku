@@ -1,0 +1,1 @@
+rc sudoku.rc >log.txt                                                                                   

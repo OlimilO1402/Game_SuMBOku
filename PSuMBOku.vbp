@@ -1,5 +1,5 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
 Form=Forms\FrmSudoku.frm
 Form=Forms\frmSudokuOptions.frm
 Form=Forms\frmSuEdit.frm
@@ -26,7 +26,7 @@ HelpContextID="0"
 CompatibleMode="0"
 MajorVer=2006
 MinorVer=209
-RevisionVer=39
+RevisionVer=40
 AutoIncrementVer=1
 ServerSupportFiles=0
 VersionCompanyName="MBO-Ing.com"

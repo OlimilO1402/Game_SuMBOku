@@ -155,7 +155,7 @@ Dim m As String
 End Sub
 
 Private Sub LblMBOINGCOM_Click()
-  Call Shell("explorer.exe http://www.mbo-ing.com", vbMaximizedFocus)
+  Call Shell("explorer.exe http://mbo-ing.com", vbMaximizedFocus)
 End Sub
 
 Private Sub PbMBOIngcom_Click()
